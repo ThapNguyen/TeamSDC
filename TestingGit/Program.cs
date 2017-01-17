@@ -11,6 +11,7 @@ namespace TestingGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello mọi người ");
+            Console.WriteLine("Thêm dòng 3");
         }
     }
 }
